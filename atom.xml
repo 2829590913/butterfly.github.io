@@ -6,7 +6,7 @@
   <link href="https://json25.tech/atom.xml" rel="self"/>
   
   <link href="https://json25.tech/"/>
-  <updated>2022-02-14T14:40:31.082Z</updated>
+  <updated>2022-02-16T16:57:06.701Z</updated>
   <id>https://json25.tech/</id>
   
   <author>
@@ -17,18 +17,65 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>手把手教你修改butterfly主题的样式</title>
+    <link href="https://json25.tech/2022/02/17/hexo-update/"/>
+    <id>https://json25.tech/2022/02/17/hexo-update/</id>
+    <published>2022-02-16T16:44:29.000Z</published>
+    <updated>2022-02-16T16:57:06.701Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h3 id=&quot;提要&quot;&gt;&lt;a href=&quot;#提要&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    
+    <category term="hexo" scheme="https://json25.tech/tags/hexo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>使用Hexo和Github搭建个人博客</title>
+    <link href="https://json25.tech/2022/02/16/creat-hexo-blog/"/>
+    <id>https://json25.tech/2022/02/16/creat-hexo-blog/</id>
+    <published>2022-02-16T14:20:45.000Z</published>
+    <updated>2022-02-16T15:36:24.114Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;仅为个人经验总结，应该有更好的搭建方式。建议：最好至少要具备一定的前端知识。&lt;/p&gt;
+&lt;h4 id=&quot;准备工具&quot;&gt;&lt;a href=&quot;#准备工具&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    
+    <category term="hexo" scheme="https://json25.tech/tags/hexo/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Hello World</title>
-    <link href="https://json25.tech/2021/01/01/hello-world/"/>
-    <id>https://json25.tech/2021/01/01/hello-world/</id>
-    <published>2020-12-31T16:00:00.000Z</published>
-    <updated>2022-02-14T14:40:31.082Z</updated>
+    <link href="https://json25.tech/2022/02/01/hello-world/"/>
+    <id>https://json25.tech/2022/02/01/hello-world/</id>
+    <published>2022-01-31T16:00:00.000Z</published>
+    <updated>2022-02-16T14:54:08.041Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;p&gt;欢迎来到 &lt;a href=&quot;tianli-blog.club&quot;&gt;Tianli’s blog&lt;/a&gt;! 这是一个基于hexo搭建的博客。&lt;/p&gt;
+    <summary type="html">&lt;p&gt;欢迎来到 &lt;a href=&quot;json25.tech&quot;&gt;json25’s blog&lt;/a&gt;! 这是一个基于hexo搭建的博客。&lt;/p&gt;
 &lt;h2 id=&quot;Quick-Start&quot;&gt;&lt;a href=&quot;#Quick-Start&quot; class=&quot;headerlink&quot;</summary>
         
       

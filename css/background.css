@@ -1,0 +1,67 @@
+#web_bg {
+  /* 背景图像的地址（url括号里）  */
+  background: url("/img/default.jpg");
+  /* 背景图像不重复 */
+  background-repeat: no-repeat;
+  /* 背景图像大小 */
+  background-size: cover;
+};
+}
+
+/* 鎵€鏈夎儗鏅紙鍖呮嫭棣栭〉鍗＄墖銆佹枃绔犻〉銆侀〉闈㈤〉绛夛級 */
+#aside-content .card-widget, #post .card-widget, #recent-posts>.recent-post-item, .layout_page>div:first-child:not(.recent-posts), .layout_post>#page, .layout_post>#post, .read-mode .layout_post>#post{
+  /* 浠ヤ笅浠ｈ〃鐧借壊閫忔槑搴︿负0.6 */
+  background: rgba(255,255,255,.6);
+}
+#footer:before {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0,0,0,0);
+  content: '';
+}
+/*澶滈棿妯″紡浼被閬僵灞傞€忔槑*/
+[data-theme="dark"]
+  #footer::before{
+      background: transparent!important;
+    }
+[data-theme="dark"]
+  #page-header::before{
+    background: transparent!important;
+    }
+[data-theme="dark"]
+#post .card-widget, #recent-posts>.recent-post-item, .layout_page>div:first-child:not(.recent-posts), .layout_post>#page, .layout_post>#post, .read-mode .layout_post>#post{
+  background: rgba(255,255,255,.2);
+}
+div#post{
+  background: rgba(255, 255, 255, 0.2);
+}
+.copyright{
+  color: rgba(0, 0, 0, 0.8);
+}
+.moe{
+  color: rgba(0, 0, 0, 0.8);
+}
+[data-theme="dark"]
+.copyright{
+  color: rgba(253, 253, 253, 0.8);
+}
+[data-theme="dark"]
+.moe{
+  color: rgba(253, 253, 253, 0.8);
+}
+.icp{
+  color: rgba(0, 0, 0, 0.8);
+}
+[data-theme="dark"]
+.icp{
+  color: rgba(253, 253, 253, 0.8);
+}
+/*閭ｅ勾浠婃棩鍗＄墖棰滆壊淇敼*/
+:root{
+--card-bg: #12121200;
+}
+[data-theme="dark"]
+#aside-content .card-widget{
+  background: #1212128c
+}

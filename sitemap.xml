@@ -4,21 +4,49 @@
   <url>
     <loc>https://json25.tech/About/index.html</loc>
     
-    <lastmod>2022-02-15</lastmod>
+    <lastmod>2022-02-17</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://json25.tech/2022/02/17/hexo-update/</loc>
+    
+    <lastmod>2022-02-16</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://json25.tech/2022/02/16/creat-hexo-blog/</loc>
+    
+    <lastmod>2022-02-16</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://json25.tech/2022/02/01/hello-world/</loc>
+    
+    <lastmod>2022-02-16</lastmod>
     
   </url>
   
   <url>
     <loc>https://json25.tech/link/index.html</loc>
     
-    <lastmod>2022-02-15</lastmod>
+    <lastmod>2022-02-16</lastmod>
     
   </url>
   
   <url>
     <loc>https://json25.tech/Mem/index.html</loc>
     
-    <lastmod>2022-02-15</lastmod>
+    <lastmod>2022-02-16</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://json25.tech/music/index.html</loc>
+    
+    <lastmod>2022-02-16</lastmod>
     
   </url>
   
@@ -65,44 +93,16 @@
   </url>
   
   <url>
-    <loc>https://json25.tech/2021/01/01/hello-world/</loc>
-    
-    <lastmod>2022-02-14</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://json25.tech/Test/index.html</loc>
     
     <lastmod>2022-02-14</lastmod>
     
   </url>
   
-  <url>
-    <loc>https://json25.tech/memory1/2.5.html</loc>
-    
-    <lastmod>2022-02-14</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://json25.tech/memory1/1.10.html</loc>
-    
-    <lastmod>2022-02-14</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://json25.tech/gallery/index.html</loc>
-    
-    <lastmod>2022-02-12</lastmod>
-    
-  </url>
-  
 
   <url>
     <loc>https://json25.tech/</loc>
-    <lastmod>2022-02-15</lastmod>
+    <lastmod>2022-02-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -110,7 +110,7 @@
   
   <url>
     <loc>https://json25.tech/tags/hexo/</loc>
-    <lastmod>2022-02-15</lastmod>
+    <lastmod>2022-02-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>

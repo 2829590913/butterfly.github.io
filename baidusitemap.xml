@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://json25.tech/2021/01/01/hello-world/</loc>
-    <lastmod>2022-02-14</lastmod>
+    <loc>https://json25.tech/2022/02/17/hexo-update/</loc>
+    <lastmod>2022-02-16</lastmod>
+  </url>
+  <url>
+    <loc>https://json25.tech/2022/02/16/creat-hexo-blog/</loc>
+    <lastmod>2022-02-16</lastmod>
+  </url>
+  <url>
+    <loc>https://json25.tech/2022/02/01/hello-world/</loc>
+    <lastmod>2022-02-16</lastmod>
   </url>
 </urlset> 
