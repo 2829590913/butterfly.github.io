@@ -151,13 +151,6 @@
 
   
   <url>
-    <loc>https://json25.tech/tags/hexo/</loc>
-    <lastmod>2022-02-18</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://json25.tech/tags/vercel/</loc>
     <lastmod>2022-02-18</lastmod>
     <changefreq>daily</changefreq>
@@ -173,6 +166,13 @@
   
   <url>
     <loc>https://json25.tech/tags/github/</loc>
+    <lastmod>2022-02-18</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://json25.tech/tags/hexo/</loc>
     <lastmod>2022-02-18</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
