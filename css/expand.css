@@ -1,0 +1,395 @@
+/* 婊氬姩鏉� */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background-color: rgba(73, 177, 245, 0.9);
+  border-radius: 2em;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #49b1f5;
+  background-image: -webkit-linear-gradient(
+    45deg,
+    rgba(255, 255, 255, 0.9) 0%,
+    transparent 0%,
+    transparent 0%,
+    rgba(255, 255, 255, 0.4) 0%,
+    rgba(255, 255, 255, 0.4) 5%,
+    transparent 0%,
+    transparent
+  );
+  border-radius: 2em;
+}
+
+::-webkit-scrollbar-corner {
+  background-color: transparent!important;
+}
+
+::-moz-selection {
+  color: #fff;
+  background-color: #49b1f5;
+}
+
+.history_slide {
+  text-align:left;
+  font-size: 14px;
+  background: var(--card-bg);
+  display: flex;
+  flex-direction:column;
+  align-items: flex-start;
+}
+.history_slide_time{
+  color: #858585;
+  Font-style: italic;
+  font-weight: lighter;
+}
+/* 椤佃剼閫忔槑 */
+#footer{
+  background: transparent!important;
+}
+/*鎵嬫満绔奖钘忓尯鍧�*/
+@media screen and (max-width: 800px) {
+    #aside_content {
+        display: none;
+        font-size: 13px;
+    }
+}
+.wv-lt-refresh {
+    display: none;
+}
+/*鑿滃崟鍦嗚*/
+#nav .menus_items .menus_item .menus_item_child li:hover {
+    border-radius: 10px;
+}
+/*浣滃垯鎸夐挳闂撮殧璋冩暣*/
+#rightside>div>a, #rightside>div>button {
+    margin-bottom: 8px;
+}
+/*鏈嬪弸鍦堢編鍖�*/
+button.load_button {
+    padding: 1.2em 2em;
+    text-decoration: none;
+    cursor: pointer;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    background: linear-gradient(
+135deg
+, #6e8efb, #a777e3);
+    position: relative;
+    color: white;
+    transition: transform .2s ease;
+    font-weight: bold;
+    letter-spacing: .01em;
+    will-change: transform;
+    align-items: center;
+    justify-content: center;
+    transform-style: preserve-3d;
+    transform: perspective(800px);
+    border-radius: 12px;
+}
+div#info_user_poor {
+    padding: .9rem 1.4rem;
+    overflow: hidden;
+    position: relative;
+    padding: .5rem .8rem;
+    background-color: rgb(239 241 243);
+    border-radius: 12px!important;
+}
+.article-sort-item {
+    padding: .9rem 1.4rem;
+    overflow: hidden;
+    position: relative;
+    padding: .5rem .8rem;
+    background-color: rgb(239 241 243);
+    border-radius: 12px!important;
+}
+/*鏈嬪弸鍦堢編鍖�*/
+#newsmodal {
+    border-radius: 15px;
+}
+/*鐗堟潈浼樺寲*/
+#post .post-copyright {
+    background: #ffffff;
+    padding: .9rem 1.4rem;
+    overflow: hidden;
+    position: relative;
+    padding: .5rem .8rem;
+    background-color: rgb(239 241 243);
+    border-radius: 12px!important;
+}
+#article-container img {
+    border-radius: 12px;
+    margin: 0 auto 1.5rem;
+}
+.article-sort-item-img {
+    border-radius: 12px;
+}
+/*鏈€鏂版枃绔燾over鍦嗚*/
+img.entered.loaded {
+    border-radius: 15px;
+}
+/*涓婁笅绡囨枃绔犲渾瑙�*/
+.menus_item_child {
+    border-radius: 12px;
+}
+.wv-lt-location>a[data-v-4b9dcab4] {
+      text-decoration: none;
+}
+.recent-post-item.wow.animate__backInUp>p {
+    margin: auto;
+}
+.wv-lt-location>a {
+    background: #3498db;
+    width: 80px;
+    border-radius: 15px;
+    text-align: center;
+    text-transform: uppercase;
+    user-select: none;
+}
+/*涓汉淇℃伅鎸夐挳鍦嗚*/
+.button--animated {
+    padding: 0.51em 0.51em;
+    text-decoration: none;
+    cursor: pointer;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    box-shadow: 0 5px 15px rgb(0 0 0 / 0%);
+    position: relative;
+    transition: transform .2s ease;
+    font-weight: bold;
+    letter-spacing: .01em;
+    will-change: transform;
+    align-items: center;
+    justify-content: center;
+    transform-style: preserve-3d;
+    transform: perspective(800px);
+    border-radius: 13px;
+}
+/*涓汉淇℃伅鎸夐挳鍦嗚婧㈠嚭*/
+#aside-content .card-info #card-info-btn {
+    border-radius: -1px;
+    overflow: hidden;
+}
+/*twikoo澶村儚鍦嗚*/
+.tk-avatar-img {
+    border-radius: 12px;
+}
+/*鏃堕棿杞村浘鐗囧渾瑙�*/
+.list-h {
+    border-radius: 12px;
+}
+/*涓汉淇℃伅鎸夐挳鍦嗚*/
+.post-reward .reward-button {
+    border-radius: 12px;
+}
+/*宸︿晶鎸夐挳鍦嗚*/
+#rightside>div>a, #rightside>div>button {
+    border-radius: 12px;
+}
+/*鎼滅储椤靛渾瑙�*/
+#local-search .search-dialog {
+    border-radius: 12px;
+}
+/*twikoo绔欑偣鍚嶇О鏍囩孩*/
+.tk-main .tk-nick.tk-nick-link {
+    color: #ff786e !important;
+}
+/*鎺ㄨ崘鏂囩珷鍏冧欢*/
+.post-copyright-info{color:#07070a}
+#pagination.pagination-post{border-radius: 15px}
+#post>div.relatedPosts>div.relatedPosts-list>div:nth-child(1){border-radius: 15px}
+#post>div.relatedPosts>div.relatedPosts-list>div:nth-child(2){border-radius: 15px}
+#post>div.relatedPosts>div.relatedPosts-list>div:nth-child(3){border-radius: 15px}
+#post>div.relatedPosts>div.relatedPosts-list>div:nth-child(4){border-radius: 15px}
+#post>div.relatedPosts>div.relatedPosts-list>div:nth-child(5){border-radius: 15px}
+#post>div.relatedPosts>div.relatedPosts-list>div:nth-child(6){border-radius: 15px}
+#recent-posts > .recent-post-item .post_cover {
+    box-shadow: 0 4px 8px 6px rgb(7 17 27 / 0%);
+}
+
+
+/* 鏃堕棿绾� */
+.timeline ul li::before {
+  position: absolute;
+  top: 0.5rem;
+  left: 0rem;
+  z-index: 1;
+  width: 2rem;
+  height: 2rem;
+  border-radius: 8px;
+  background: var(--card-bg);
+  content: "";
+  background-image: url(https://img1.tianli0.top/logo.png);
+  background-size: 2rem;
+}
+
+/* 鍔犺浇鏇村 */
+.load-btn.button-load{
+  background: var(--heo-card-btn-bg);
+  color: var(--heo-fontcolor);
+  padding: 12px 12px;
+  margin: 8px 0;
+  width: 100%;
+  text-align: center;
+  border-radius: 12px;
+  transition: 0.3s;
+  font-weight: bold;
+}
+
+.load-btn.button-load:hover{
+  background: var(#fe5f55);
+  color: var(--heo-white);
+  transition: 0.3s;
+  box-shadow: var(--heo-shadow-blue);
+}
+
+/* 缈婚〉 */
+#pagination a.extend,
+#pagination .page-number,
+#pagination span {
+	color: var(--font-color);
+	background-color: var(--card-bg);
+	border-radius: 8px;
+	height: 1.6rem;
+	text-align: center;
+	line-height: 1.6rem;
+	display: inline-block;
+	min-width: 1.6rem;
+}
+
+#pagination a.page-number:hover,
+#pagination a.extend:hover {
+	color: var(--second);
+	background-color: var(--main);
+	box-shadow: var(--main-shadow);
+}
+
+.pagination span.space {
+	font-weight: 700;
+	background-color: transparent !important;
+}
+
+#pagination a.extend.prev {
+	float: left;
+	padding: 0 10px 0 6px;
+}
+
+#pagination a.extend.next {
+	float: right;
+	padding: 0 6px 0 10px;
+}
+/* 涓婁笅涓€绡囨枃绔� */
+#pagination .prev_info,
+#pagination .next_info {
+	font-size: 1.1em;
+	font-weight: 500;
+}
+
+#pagination img.prev-cover,
+#pagination img.next-cover {
+	background-color: var(--card-bg);
+}
+
+#pagination .prev-post:hover img.prev-cover,
+#pagination .next-post:hover img.next-cover {
+	opacity: .7;
+}
+
+#pagination.pagination-post {
+	border-radius: 8px
+}
+/* 鎻愮ず妗� */
+.snackbar-container {
+	border-radius: 8px !important;
+}
+
+/* 鎺ㄨ崘鏂囩珷 */
+.relatedPosts > .relatedPosts-list .content .date {
+	font-size: 1.1em;
+}
+
+.relatedPosts>.relatedPosts-list .content .title {
+	font-size: 1.1em;
+	font-weight: 500;
+}
+
+.relatedPosts>.relatedPosts-list .cover {
+	background-color: var(--card-bg);
+}
+
+.relatedPosts>.relatedPosts-list>div:hover .cover {
+	opacity: .7;
+}
+
+@media screen and (min-width:769px) {
+	#post>div.relatedPosts>div.relatedPosts-list>div:nth-child(1) {
+		border-radius: 8px 0 0 0
+	}
+
+	#post>div.relatedPosts>div.relatedPosts-list>div:nth-child(3) {
+		border-radius: 0 8px 0 0
+	}
+
+	#post>div.relatedPosts>div.relatedPosts-list>div:nth-child(4) {
+		border-radius: 0 0 0 8px
+	}
+
+	#post>div.relatedPosts>div.relatedPosts-list>div:nth-child(6) {
+		border-radius: 0 0 8px 0
+	}
+}
+
+@media (max-width:768px) and (min-width:601px) {
+	#post>div.relatedPosts>div.relatedPosts-list>div:nth-child(1) {
+		border-radius: 8px 0 0 0
+	}
+
+	#post>div.relatedPosts>div.relatedPosts-list>div:nth-child(2) {
+		border-radius: 0 8px 0 0
+	}
+
+	#post>div.relatedPosts>div.relatedPosts-list>div:nth-child(5) {
+		border-radius: 0 0 0 8px
+	}
+
+	#post>div.relatedPosts>div.relatedPosts-list>div:nth-child(6) {
+		border-radius: 0 0 8px 0
+	}
+}
+
+@media (max-width:600px) {
+	#post>div.relatedPosts>div.relatedPosts-list>div:nth-child(1) {
+		border-radius: 8px 8px 0 0
+	}
+
+	#post>div.relatedPosts>div.relatedPosts-list>div:nth-child(6) {
+		border-radius: 0 0 8px 8px
+	}
+}
+
+
+.icon {
+   width: 1.4em; height: 1.4em;
+   vertical-align: -0.35em;
+   fill: currentColor;
+   overflow: hidden;
+}
+
+#post #article-container p > code {
+    font-family: "HarmonyOS_Regular" !important;
+}
+
+
+
+
+
+
+
+

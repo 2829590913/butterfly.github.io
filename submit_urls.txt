@@ -1,3 +1,8 @@
+https://json25.tech/2022/02/18/update04/
+https://json25.tech/2022/02/18/update01/
+https://json25.tech/2022/02/18/update02/
+https://json25.tech/2022/02/18/update03/
+https://json25.tech/2022/02/17/nginx/
 https://json25.tech/2022/02/17/hexo-update/
 https://json25.tech/2022/02/16/creat-hexo-blog/
 https://json25.tech/2022/02/01/hello-world/
