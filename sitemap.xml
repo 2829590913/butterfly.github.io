@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://json25.tech/About/index.html</loc>
+    
+    <lastmod>2022-02-19</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://json25.tech/2022/02/18/update04/</loc>
     
     <lastmod>2022-02-18</lastmod>
@@ -52,13 +59,6 @@
   
   <url>
     <loc>https://json25.tech/2022/02/16/creat-hexo-blog/</loc>
-    
-    <lastmod>2022-02-18</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://json25.tech/About/index.html</loc>
     
     <lastmod>2022-02-18</lastmod>
     
@@ -144,7 +144,7 @@
 
   <url>
     <loc>https://json25.tech/</loc>
-    <lastmod>2022-02-18</lastmod>
+    <lastmod>2022-02-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -152,56 +152,56 @@
   
   <url>
     <loc>https://json25.tech/tags/vercel/</loc>
-    <lastmod>2022-02-18</lastmod>
+    <lastmod>2022-02-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://json25.tech/tags/%E6%95%99%E7%A8%8B/</loc>
-    <lastmod>2022-02-18</lastmod>
+    <lastmod>2022-02-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://json25.tech/tags/github/</loc>
-    <lastmod>2022-02-18</lastmod>
+    <lastmod>2022-02-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://json25.tech/tags/hexo/</loc>
-    <lastmod>2022-02-18</lastmod>
+    <lastmod>2022-02-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://json25.tech/tags/nginx/</loc>
-    <lastmod>2022-02-18</lastmod>
+    <lastmod>2022-02-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://json25.tech/tags/%E4%B8%BB%E9%A2%98/</loc>
-    <lastmod>2022-02-18</lastmod>
+    <lastmod>2022-02-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://json25.tech/tags/butterfly/</loc>
-    <lastmod>2022-02-18</lastmod>
+    <lastmod>2022-02-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://json25.tech/tags/%E9%9F%B3%E4%B9%90/</loc>
-    <lastmod>2022-02-18</lastmod>
+    <lastmod>2022-02-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
